@@ -1,0 +1,15 @@
+C:\Project\CSAcademy\MathGame\bin\Debug\net7.0\MathGame.exe
+C:\Project\CSAcademy\MathGame\bin\Debug\net7.0\MathGame.deps.json
+C:\Project\CSAcademy\MathGame\bin\Debug\net7.0\MathGame.runtimeconfig.json
+C:\Project\CSAcademy\MathGame\bin\Debug\net7.0\MathGame.dll
+C:\Project\CSAcademy\MathGame\bin\Debug\net7.0\MathGame.pdb
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.csproj.AssemblyReference.cache
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.AssemblyInfoInputs.cache
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.AssemblyInfo.cs
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.csproj.CoreCompileInputs.cache
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.dll
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\refint\MathGame.dll
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.pdb
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\MathGame.genruntimeconfig.cache
+C:\Project\CSAcademy\MathGame\obj\Debug\net7.0\ref\MathGame.dll
